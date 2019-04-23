@@ -2,10 +2,11 @@
 A collection of usefull links, awesome lists and other things.
 
 ### Guides, tutorials, tech things
-- [Developer Roadmap](https://github.com/kamranahmedse/developer-roadmap) - Roadmap to becoming a web developer.
+- [Developer Roadmap](https://github.com/kamranahmedse/developer-roadmap) - :runner: Roadmap to becoming a web developer.
 - [Computer Science](https://github.com/ossu/computer-science) - :mortar_board: Path to a free self-taught education in Computer Science!.
-- [Every Programmer Should Know](https://github.com/mtdvio/every-programmer-should-know) - A collection of (mostly) technical things every software developer should know.
+- [Every Programmer Should Know](https://github.com/mtdvio/every-programmer-should-know) - :thinking: A collection of (mostly) technical things every software developer should know.
 - [Project Based Learning](https://github.com/tuvtran/project-based-learning) - Curated list of project-based tutorials.
+- [Mega Project List](https://github.com/karan/Projects) - :page_with_curl: A list of practical projects that anyone can solve in any programming language.
 - [The System Design Primer](https://github.com/donnemartin/system-design-primer) - Learn how to design large-scale systems. Prep for the system design interview.
 - [Awesome Compilers](https://github.com/aalhour/awesome-compilers) - Curated list of awesome resources on Compilers, Interpreters and Runtimes.
 - [Awesome Microservices](https://github.com/mfornos/awesome-microservices) - A curated list of Microservice Architecture related principles and technologies.
@@ -19,9 +20,11 @@ A collection of usefull links, awesome lists and other things.
 ### Go
 - [Golang](https://github.com/golang/go) - The Go programming language.
 - [Awesome Go](https://github.com/avelino/awesome-go) - A curated list of awesome Go frameworks, libraries and software.
+- [Go Patterns](https://github.com/tmrts/go-patterns) - Curated list of Go design patterns, recipes and idioms.
 
 ### C# and .NET
 - [C# Language Design](https://github.com/dotnet/csharplang) - The official repo for the design of the C# programming language.
+ - [.NET project structure](https://gist.github.com/davidfowl/ed7564297c61fe9ab814) - A sample of structure .net project.
 - [CoreCLR](https://github.com/dotnet/coreclr) - CoreCLR is the runtime for .NET Core. It includes the garbage collector, JIT compiler, primitive data types and low-level classes.
 - [CoreFX](https://github.com/dotnet/corefx) - CoreFX is the foundational class libraries for .NET Core. It includes types for collections, file systems, console, JSON, XML, async and many others.
 https://github.com/dotnet/roslyn
@@ -30,6 +33,9 @@ https://github.com/dotnet/roslyn
 - [Awesome .NET Core](https://github.com/thangchung/awesome-dotnet-core) - A collection of awesome .NET core libraries, tools, frameworks and software.
  - [Practical ASP.NET Core](https://github.com/dodyg/practical-aspnetcore) - Practical samples of aspnet core.
  - [StringsAreEvil](https://github.com/indy-singh/StringsAreEvil) - Reducing memory allocations from 7.5GB to 32KB.
+- Data Structures and Algorithms
+    - [C# Algorithms](https://github.com/aalhour/C-Sharp-Algorithms) - Plug-and-play class-library project of standard Data Structures and Algorithms in C#.
+    - [Algorithmia](https://github.com/SolutionsDesign/Algorithmia) - Algorithm and data-structure library. Algorithmia contains sophisticated algorithms and data-structures like graphs, priority queues, command, undo-redo and more.
 
  ### JavaScript
  - [Awesome JavaScript](https://github.com/sorrycc/awesome-javascript) - Delightful Node.js packages and resources.
