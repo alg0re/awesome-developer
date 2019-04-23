@@ -1,18 +1,19 @@
 # Awesome developer
-A collection of usefull links, "awesome" lists and other things.
+A collection of usefull links, awesome lists and other things.
 
 ### Guides, tutorials, tech things
 - [Developer Roadmap](https://github.com/kamranahmedse/developer-roadmap) - Roadmap to becoming a web developer.
-- [Computer Science](https://github.com/ossu/computer-science) - Path to a free self-taught education in Computer Science!.
+- [Computer Science](https://github.com/ossu/computer-science) - :mortar_board: Path to a free self-taught education in Computer Science!.
 - [Every Programmer Should Know](https://github.com/mtdvio/every-programmer-should-know) - A collection of (mostly) technical things every software developer should know.
 - [Project Based Learning](https://github.com/tuvtran/project-based-learning) - Curated list of project-based tutorials.
 - [The System Design Primer](https://github.com/donnemartin/system-design-primer) - Learn how to design large-scale systems. Prep for the system design interview.
+- [Awesome Compilers](https://github.com/aalhour/awesome-compilers) - Curated list of awesome resources on Compilers, Interpreters and Runtimes.
 - [Awesome Microservices](https://github.com/mfornos/awesome-microservices) - A curated list of Microservice Architecture related principles and technologies.
 - [Awesome Scalability](https://github.com/binhnguyennus/awesome-scalability) - The Patterns Behind Scalable, Reliable, and Performant Large-Scale Systems.
 - [Awesome Streaming](https://github.com/manuzhang/awesome-streaming) - A curated list of awesome streaming frameworks, applications, etc.
-- [Awesome Compilers](https://github.com/aalhour/awesome-compilers) - Curated list of awesome resources on Compilers, Interpreters and Runtimes.
+- [Awesome Interviews](https://github.com/MaximAbramchuck/awesome-interview-questions) - A curated awesome list of lists of interview questions. Feel free to contribute!
 
-### C++
+### C/C++
 - [Awesome C++](https://github.com/fffaraz/awesome-cpp) - A curated list of awesome C++ (or C) frameworks, libraries, resources, and shiny things. Inspired by awesome-... stuff. 
 
 ### Go
