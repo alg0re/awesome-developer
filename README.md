@@ -12,7 +12,7 @@ A collection of usefull links, awesome lists and other things.
 - [Awesome Microservices](https://github.com/mfornos/awesome-microservices) - A curated list of Microservice Architecture related principles and technologies.
 - [Awesome Scalability](https://github.com/binhnguyennus/awesome-scalability) - The Patterns Behind Scalable, Reliable, and Performant Large-Scale Systems.
 - [Awesome Streaming](https://github.com/manuzhang/awesome-streaming) - A curated list of awesome streaming frameworks, applications, etc.
-- [Awesome Interviews](https://github.com/MaximAbramchuck/awesome-interview-questions) - A curated awesome list of lists of interview questions. Feel free to contribute!
+- [Awesome Interviews](https://github.com/MaximAbramchuck/awesome-interview-questions) - :octocat: A curated awesome list of lists of interview questions. Feel free to contribute!
 
 ### C/C++
 - [Awesome C++](https://github.com/fffaraz/awesome-cpp) - A curated list of awesome C++ (or C) frameworks, libraries, resources, and shiny things. Inspired by awesome-... stuff. 
@@ -30,7 +30,7 @@ A collection of usefull links, awesome lists and other things.
 https://github.com/dotnet/roslyn
 - [Roslyn](https://github.com/dotnet/roslyn) - The Roslyn .NET compiler provides C# and Visual Basic languages with rich code analysis APIs.
 - [Awesome .NET!](https://github.com/quozd/awesome-dotnet) - A collection of awesome .NET libraries, tools, frameworks and software.
-- [Awesome .NET Core](https://github.com/thangchung/awesome-dotnet-core) - A collection of awesome .NET core libraries, tools, frameworks and software.
+- [Awesome .NET Core](https://github.com/thangchung/awesome-dotnet-core) - :bee: A collection of awesome .NET core libraries, tools, frameworks and software.
  - [Practical ASP.NET Core](https://github.com/dodyg/practical-aspnetcore) - Practical samples of aspnet core.
  - [StringsAreEvil](https://github.com/indy-singh/StringsAreEvil) - Reducing memory allocations from 7.5GB to 32KB.
 - Data Structures and Algorithms
@@ -38,13 +38,14 @@ https://github.com/dotnet/roslyn
     - [Algorithmia](https://github.com/SolutionsDesign/Algorithmia) - Algorithm and data-structure library. Algorithmia contains sophisticated algorithms and data-structures like graphs, priority queues, command, undo-redo and more.
 
  ### JavaScript
- - [Awesome JavaScript](https://github.com/sorrycc/awesome-javascript) - Delightful Node.js packages and resources.
+ - [JavaScript Path](https://github.com/javascript-society/javascript-path) - :books: List of books to master JavaScript Development.
+ - [Awesome JavaScript](https://github.com/sorrycc/awesome-javascript) - :turtle: Delightful Node.js packages and resources.
 
  ### Node.js
- - [Awesome Node.js](https://github.com/sindresorhus/awesome-nodejs) - A collection of awesome browser-side JavaScript libraries, resources and shiny things.
+ - [Awesome Node.js](https://github.com/sindresorhus/awesome-nodejs) - :zap: A collection of awesome browser-side JavaScript libraries, resources and shiny things.
 
  ### Docker
-- [Awesome Docker](https://github.com/veggiemonk/awesome-docker) - A curated list of Docker resources and projects.
+- [Awesome Docker](https://github.com/veggiemonk/awesome-docker) - :whale: A curated list of Docker resources and projects.
 
  ### Windows
  - [Awesome Windows](https://github.com/alg0re/Awesome) - :computer:  An awesome & curated list of best applications and tools for Windows.
