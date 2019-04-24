@@ -48,6 +48,7 @@ https://github.com/dotnet/roslyn
 - [Awesome Docker](https://github.com/veggiemonk/awesome-docker) - :whale: A curated list of Docker resources and projects.
 
  ### Windows
- - [Awesome Windows](https://github.com/alg0re/Awesome) - :computer:  An awesome & curated list of best applications and tools for Windows.
+- [Sysinternals Suite](https://docs.microsoft.com/en-us/sysinternals/downloads/sysinternals-suite) - Tool suite by Mark Russinovich that provides access to Windows internals for troubleshooting: processes, physical ports, disk activity etc.
+- [Awesome Windows](https://github.com/Awesome-Windows/Awesome) - :computer:  An awesome & curated list of best applications and tools for Windows.
 
 
