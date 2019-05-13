@@ -27,7 +27,6 @@ A collection of usefull links, awesome lists and other things.
  - [.NET project structure](https://gist.github.com/davidfowl/ed7564297c61fe9ab814) - A sample of structure .net project.
 - [CoreCLR](https://github.com/dotnet/coreclr) - CoreCLR is the runtime for .NET Core. It includes the garbage collector, JIT compiler, primitive data types and low-level classes.
 - [CoreFX](https://github.com/dotnet/corefx) - CoreFX is the foundational class libraries for .NET Core. It includes types for collections, file systems, console, JSON, XML, async and many others.
-https://github.com/dotnet/roslyn
 - [Roslyn](https://github.com/dotnet/roslyn) - The Roslyn .NET compiler provides C# and Visual Basic languages with rich code analysis APIs.
 - [Awesome .NET!](https://github.com/quozd/awesome-dotnet) - A collection of awesome .NET libraries, tools, frameworks and software.
 - [Awesome .NET Core](https://github.com/thangchung/awesome-dotnet-core) - :bee: A collection of awesome .NET core libraries, tools, frameworks and software.
@@ -48,7 +47,12 @@ https://github.com/dotnet/roslyn
 - [Awesome Docker](https://github.com/veggiemonk/awesome-docker) - :whale: A curated list of Docker resources and projects.
 
  ### Windows
-- [Sysinternals Suite](https://docs.microsoft.com/en-us/sysinternals/downloads/sysinternals-suite) - Tool suite by Mark Russinovich that provides access to Windows internals for troubleshooting: processes, physical ports, disk activity etc.
-- [Awesome Windows](https://github.com/Awesome-Windows/Awesome) - :computer:  An awesome & curated list of best applications and tools for Windows.
+- [Awesome Windows](https://github.com/alg0re/Awesome) - :computer:  An awesome & curated list of best applications and tools for Windows.
+- [Terminal](https://github.com/microsoft/terminal) - he new Windows Terminal, and the original Windows console host -- all in the same place!
+ 
+ ### Blogs
+
+- [Jon Skeet's coding blog](https://codeblog.jonskeet.uk/) - Jon Skeet's coding blog.
+- [Code, code and more code](https://blog.marcgravell.com/) - Code geek working for Stack Overflow.
 
 
