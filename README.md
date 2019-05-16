@@ -54,5 +54,10 @@ A collection of usefull links, awesome lists and other things.
 
 - [Jon Skeet's coding blog](https://codeblog.jonskeet.uk/) - Jon Skeet's coding blog.
 - [Code, code and more code](https://blog.marcgravell.com/) - Code geek working for Stack Overflow.
+- [Stephen Cleary](https://blog.stephencleary.com) - Stephen Cleary's blog: async/await, programming, language design, and other sundry computer science topics.
 
-
+ ### Podcasts
+ - [radio-t](https://radio-t.com/) [RU] - A talk about interesting things in IT world.
+ - [.NET Rocks!](https://www.dotnetrocks.com/) - .NET Rocks! is a weekly talk show for anyone interested in programming on the Microsoft .NET platform. The shows range from introductory information to hardcore geekiness.
+ - [Coding Blocks](https://www.codingblocks.net/) -  The podcast for learning how to become a better software developer.
+- [Software Engineering Radio](https://www.se-radio.net/) - The Podcast for Professional Software Developers. 
