@@ -48,7 +48,7 @@ A collection of usefull links, awesome lists and other things.
 - [Awesome Docker](https://github.com/veggiemonk/awesome-docker) - :whale: A curated list of Docker resources and projects.
 
  ### Windows
-- [Awesome Windows](https://github.com/alg0re/Awesome) - :computer:  An awesome & curated list of best applications and tools for Windows.
+- [Awesome Windows](https://github.com/Awesome-Windows/Awesome) - :computer:  An awesome & curated list of best applications and tools for Windows.
 - [Terminal](https://github.com/microsoft/terminal) - he new Windows Terminal, and the original Windows console host -- all in the same place!
  
  ### Blogs
