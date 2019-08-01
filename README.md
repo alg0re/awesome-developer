@@ -7,6 +7,7 @@ A collection of usefull links, awesome lists and other things.
 - [Every Programmer Should Know](https://github.com/mtdvio/every-programmer-should-know) - :thinking: A collection of (mostly) technical things every software developer should know.
 - [Project Based Learning](https://github.com/tuvtran/project-based-learning) - Curated list of project-based tutorials.
 - [Mega Project List](https://github.com/karan/Projects) - :page_with_curl: A list of practical projects that anyone can solve in any programming language.
+- [RealWorld example apps](https://github.com/gothinkster/realworld) - "The mother of all demo apps" - Exemplary fullstack Medium.com clone powered by React, Angular, Node, Django, and many more 😮😎.
 - [The System Design Primer](https://github.com/donnemartin/system-design-primer) - Learn how to design large-scale systems. Prep for the system design interview.
 - [Awesome Compilers](https://github.com/aalhour/awesome-compilers) - Curated list of awesome resources on Compilers, Interpreters and Runtimes.
 - [Awesome Microservices](https://github.com/mfornos/awesome-microservices) - A curated list of Microservice Architecture related principles and technologies.
