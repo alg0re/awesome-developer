@@ -8,6 +8,7 @@ A collection of usefull links, awesome lists and other things.
 - [Project Based Learning](https://github.com/tuvtran/project-based-learning) - Curated list of project-based tutorials.
 - [Mega Project List](https://github.com/karan/Projects) - :page_with_curl: A list of practical projects that anyone can solve in any programming language.
 - [RealWorld example apps](https://github.com/gothinkster/realworld) - "The mother of all demo apps" - Exemplary fullstack Medium.com clone powered by React, Angular, Node, Django, and many more 😮😎.
+- [App Ideas](https://github.com/florinpop17/app-ideas) - 📒 Collection of app ideas for project.
 - [The System Design Primer](https://github.com/donnemartin/system-design-primer) - Learn how to design large-scale systems. Prep for the system design interview.
 - [Awesome Compilers](https://github.com/aalhour/awesome-compilers) - Curated list of awesome resources on Compilers, Interpreters and Runtimes.
 - [Awesome Microservices](https://github.com/mfornos/awesome-microservices) - A curated list of Microservice Architecture related principles and technologies.
@@ -23,6 +24,7 @@ A collection of usefull links, awesome lists and other things.
 - [Golang](https://github.com/golang/go) - The Go programming language.
 - [Awesome Go](https://github.com/avelino/awesome-go) - A curated list of awesome Go frameworks, libraries and software.
 - [Go Patterns](https://github.com/tmrts/go-patterns) - Curated list of Go design patterns, recipes and idioms.
+- [ultimate-go](https://github.com/betty200744/ultimate-go) - Collection of golang notes.
 
 ### C# and .NET
 - [C# Language Design](https://github.com/dotnet/csharplang) - The official repo for the design of the C# programming language.
@@ -37,6 +39,7 @@ A collection of usefull links, awesome lists and other things.
 - Data Structures and Algorithms
     - [C# Algorithms](https://github.com/aalhour/C-Sharp-Algorithms) - Plug-and-play class-library project of standard Data Structures and Algorithms in C#.
     - [Algorithmia](https://github.com/SolutionsDesign/Algorithmia) - Algorithm and data-structure library. Algorithmia contains sophisticated algorithms and data-structures like graphs, priority queues, command, undo-redo and more.
+- [CliFx](https://github.com/Tyrrrz/CliFx) - it's a powerful framework for building command line applications.
 
  ### JavaScript
  - [JavaScript Path](https://github.com/javascript-society/javascript-path) - :books: List of books to master JavaScript Development.
